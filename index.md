@@ -1,4 +1,4 @@
-# BlockyTD_PackDownloader
+# BlockyTDPacks
 
 Just the BlockyTD packs.
 
